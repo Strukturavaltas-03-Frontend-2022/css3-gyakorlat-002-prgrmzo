@@ -133,7 +133,7 @@ before pszeudo-elemei */
 
 /* 15: a menu__hamburger--htx osztályú elemeken belül lévő span elemek 
 after pszeudo-elemei */
-.menu__hamburer--htx span::after {
+.menu__hamburger--htx span::after {
   transition-property: bottom, transform;
 }
 
